@@ -1,0 +1,14 @@
+C:\Task\Assignment\Assignment\bin\Release\netcoreapp3.1\Assignment.exe
+C:\Task\Assignment\Assignment\bin\Release\netcoreapp3.1\InputFile\Numbers.txt
+C:\Task\Assignment\Assignment\bin\Release\netcoreapp3.1\Assignment.deps.json
+C:\Task\Assignment\Assignment\bin\Release\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Task\Assignment\Assignment\bin\Release\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Task\Assignment\Assignment\bin\Release\netcoreapp3.1\Assignment.dll
+C:\Task\Assignment\Assignment\bin\Release\netcoreapp3.1\Assignment.pdb
+C:\Task\Assignment\Assignment\obj\Release\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\Assignment\Assignment\obj\Release\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Task\Assignment\Assignment\obj\Release\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Task\Assignment\Assignment\obj\Release\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Task\Assignment\Assignment\obj\Release\netcoreapp3.1\Assignment.dll
+C:\Task\Assignment\Assignment\obj\Release\netcoreapp3.1\Assignment.pdb
+C:\Task\Assignment\Assignment\obj\Release\netcoreapp3.1\Assignment.genruntimeconfig.cache
